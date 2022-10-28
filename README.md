@@ -1,10 +1,14 @@
 ## Olá eu sou Paulo Pinheiro !
 
 
-,,,,,,,
+```
 
-EM BREVE 
-,,,,,,,
+EM BREVE - CONSTRUINDO MEU CONHECIMENTO CASO DESEJE ME AJUDAR.....
+
+```
+
+
+
 
 <div align="center">
   <a href="https://github.com/pzin33">
